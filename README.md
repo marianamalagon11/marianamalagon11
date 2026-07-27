@@ -1,6 +1,5 @@
 # Hola, soy Mariana Malagón
 
-
 ## Enfoque
 
 - **Desarrollo de Software**: Aplicaciones con Java y Python
@@ -13,7 +12,7 @@
 ## Tecnologías
 
 - **Lenguajes**: Java, Python, PowerShell, Bash
-- **Especialidades**: 
+- **Especialidades**:
   - Desarrollo Orientado a Objetos (OOP)
   - Bases de Datos (Oracle Cloud, SGBD)
   - Seguridad en CI/CD y gestión de secretos
@@ -38,21 +37,22 @@ Laboratorios y proyectos de la materia de Desarrollo de Software enfocados en ar
 
 - **[DOSW-Lab1-2026-1-MarianaMalagon-DavidCorrea](https://github.com/marianamalagon11/DOSW-Lab1-2026-1-MarianaMalagon-DavidCorrea)** - Laboratorio 1 DOSW 2026-1
 - **[DOSW-Bootcamp-Laboratorio-02_2026](https://github.com/marianamalagon11/DOSW-Bootcamp-Laboratorio-02_2026)** - Laboratorio 2 DOSW 2026-1
-- **[DOSW_Lab4_MJS](https://github.com/marianamalagon11/DOSW_Lab4_MJS)** - Laboratorio 4 DOSW
 - **[DOSW_LAB03_Bootcamp_MJS](https://github.com/marianamalagon11/DOSW_LAB03_Bootcamp_MJS)** - Laboratorio 3 Bootcamp
-- **[DOSW_ParcialT1_MarianaMalagon](https://github.com/marianamalagon11/DOSW_ParcialT1_MarianaMalagon)** - Parcial T1 DOSW
+- **[DOSW_Lab4_MJS](https://github.com/marianamalagon11/DOSW_Lab4_MJS)** - Laboratorio 4 DOSW
 - **[DOSW-Library](https://github.com/marianamalagon11/DOSW-Library)** - Librería DOSW
-- **[BitacoraDOSW_MarianaMalagon](https://github.com/marianamalagon11/BitacoraDOSW_MarianaMalagon)** - Bitácora de aprendizaje 
+- **[BitacoraDOSW_MarianaMalagon](https://github.com/marianamalagon11/BitacoraDOSW_MarianaMalagon)** - Bitácora de aprendizaje
+
 ---
 
 ### FDSI - Fundamentos de Seguridad de la Información
 
 Proyectos enfocados en seguridad informática, criptografía y protección de datos.
 
-- **[Kryptos-Terra_FDSI](https://github.com/marianamalagon11/Kryptos-Terra_FDSI)** - Solución de seguridad en tres capas para proteger el ciclo de vida de Terraform. Prevención de fugas de credenciales en Git, escaneo automatizado en CI/CD y gestión centralizada de secretos. Caso de estudio S.A.M.J. Global Services
+- **[Kryptos-Terra_FDSI](https://github.com/marianamalagon11/Kryptos-Terra_FDSI)** - Solución de seguridad en tres capas para proteger el ciclo de vida de Terraform. Prevención de fugas de credenciales en Git, escaneo automatizado en CI/CD y gestión centralizada de secretos.
 
 ### Semillero de Arquitectura Tecnológica y Seguridad
-- **[RedBluePassword](https://github.com/marianamalagon11/RedBluePassword)** - Aplicación web educativa interactiva que enseña ciberseguridad. Los estudiantes crean perfiles ficticios, simulan ataques de contraseñas débiles y aprenden a defender cuentas con contraseñas fuertes y MFA
+
+- **[RedBluePassword](https://github.com/marianamalagon11/RedBluePassword)** - Aplicación web educativa interactiva para enseñar ciberseguridad mediante simulaciones de contraseñas débiles, fortalecimiento de credenciales y MFA.
 
 ---
 
@@ -62,7 +62,9 @@ Laboratorios y proyectos de machine learning, redes neuronales y análisis de da
 
 - **[PTIA_LAB1_DT](https://github.com/marianamalagon11/PTIA_LAB1_DT)** - Laboratorio 1: Decision Trees (Árboles de Decisión)
 - **[PTIA_LAB2_RN](https://github.com/marianamalagon11/PTIA_LAB2_RN)** - Laboratorio 2: Redes Neuronales
-- **[PTIA-MediFinder](https://github.com/marianamalagon11/PTIA-MediFinder)** - Proyecto aplicación de IA en medicina y búsqueda de datos
+- **[PTIA_LAB3_AdvSearch](https://github.com/marianamalagon11/PTIA_LAB3_AdvSearch)** - Laboratorio 3: Búsqueda avanzada
+- **[PTIA_LAB4_KB](https://github.com/marianamalagon11/PTIA_LAB4_KB)** - Laboratorio 4: Búsqueda adversaria
+- **[PTIA-MediFinder](https://github.com/marianamalagon11/PTIA-MediFinder)** - Proyecto de IA aplicada a medicina para búsqueda y análisis de datos
 
 ---
 
@@ -73,8 +75,21 @@ Aplicaciones y herramientas para administración y análisis de bases de datos.
 - **[SGBD_Application_Python](https://github.com/marianamalagon11/SGBD_Application_Python)** - Aplicación en Python para gestión de sistemas de bases de datos
 - **[ADAPTATION_SGBD_application](https://github.com/marianamalagon11/ADAPTATION_SGBD_application)** - Adaptación de aplicación Java para Oracle Cloud
 - **[SCHEMASPY_DBOracleCloud](https://github.com/marianamalagon11/SCHEMASPY_DBOracleCloud)** - Herramienta SchemaSpy para análisis de bases de datos Oracle Cloud
-- **[BASES](https://github.com/marianamalagon11/BASES)** - Fundamentos de bases de datos
 
+---
+
+## Organización
+
+- **[PATRICIA-Ingenierios-del-prompt](https://github.com/PATRICIA-Ingenierios-del-prompt)** - Organización donde colaboro en **U•link**, una plataforma universitaria enfocada en conexión, bienestar e inclusión.
+
+### U•link (resumen)
+
+- **Conexión y Comunidad**: Espacios (“Parches”) para crear grupos de estudio e intereses afines sin barreras entre facultades.
+- **Bienestar 24/7**: **Mono**, asistente de apoyo emocional privado disponible en todo momento; además incluye **matching** para conocer personas, **eventos en vivo con ubicación** y **álbum de monas**.
+- **Diseño Inclusivo**: Interfaz adaptada para personas con dislexia y daltonismo, garantizando participación sin excepciones.
+- **Excelencia en Arquitectura**: Sistema en la nube rápido, seguro y altamente escalable, reconocido por su presentación técnica y robustez.
+
+🔗 Repositorio en GitHub: https://github.com/PATRICIA-Ingenierios-del-prompt
 
 ---
 
@@ -86,6 +101,7 @@ Aplicaciones y herramientas para administración y análisis de bases de datos.
 ---
 
 Estoy constantemente trabajando en proyectos académicos y personales que combinan desarrollo de software con seguridad e IA. Cada repositorio refleja mi aprendizaje y crecimiento como desarrolladora.
+
 ---
 
-*Última actualización: Abril 2026*
+*Última actualización: 27 de julio de 2026*
