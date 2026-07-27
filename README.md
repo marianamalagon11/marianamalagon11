@@ -1,45 +1,54 @@
-<div align="center">
+<h1 align="center">Hi, I'm Mariana Malagón</h1>
+<h3 align="center">Networks • Cybersecurity • Software Development • AI & Data Science</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mariana%20Malag%C3%B3n&fontAlign=50&fontAlignY=40&color=gradient&customColorList=24,20,14,11,30&fontColor=ffffff&desc=Software%20Development%20%E2%80%A2%20Security%20%E2%80%A2%20AI%20%26%20Data&descAlign=50&descAlignY=58&animation=fadeIn" />
+<p align="center">
+  <a href="https://github.com/marianamalagon11">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mariana-malag%C3%B3n-tochoy-784829195">LinkedIn</a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=700&lines=Hi%2C+I%E2%80%99m+Mariana+Malag%C3%B3n;Java+%7C+Python+%7C+Security+%7C+AI;Building+impactful+projects+with+technology)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Focus-Networks%20%26%20Cybersecurity-f472b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Also-Software%20Development-f9a8d4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Also-AI%20%26%20Data%20Science-ec4899?style=for-the-badge" />
+</p>
 
 ---
 
 ## About Me
 
-Software developer focused on Java and Python, with strong interest in information security, AI, and data science.  
-I continuously build academic and personal projects that combine software engineering, secure development practices, and intelligent systems.
+My main interest is in **Networks and Cybersecurity**.  
+I also focus on **Software Development**, as well as **AI and Data Science**.
+
+I continuously build academic and personal projects that combine secure development practices, software engineering, and intelligent systems.
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-6366F1?style=for-the-badge&logo=powershell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f59e0b?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-6366f1?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1F2937?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-2563EB?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-16A34A?style=for-the-badge&logo=android&logoColor=white)
-![Solaris](https://img.shields.io/badge/Solaris-DC2626?style=for-the-badge&logo=oracle&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1f2937?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-2563eb?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-16a34a?style=for-the-badge&logo=android&logoColor=white)
+![Solaris](https://img.shields.io/badge/Solaris-dc2626?style=for-the-badge&logo=oracle&logoColor=white)
 ![Slackware](https://img.shields.io/badge/Slackware-111827?style=for-the-badge&logo=slackware&logoColor=white)
 
 ### Virtualization & Networking
-![VMware](https://img.shields.io/badge/VMware-4B5563?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-1D4ED8?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-4b5563?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-1d4ed8?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-b91c1c?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2563eb?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Core Competencies
+- Networks and Cybersecurity
 - Object-Oriented Programming (OOP)
 - Database Systems (Oracle Cloud, DBMS)
 - CI/CD security and secrets management
@@ -120,10 +129,27 @@ Repository: https://github.com/PATRICIA-Ingenierios-del-prompt
 
 ---
 
-## Connect with Me
+## GitHub Stats
 
-- **GitHub:** [@marianamalagon11](https://github.com/marianamalagon11)
-- **LinkedIn:** [www.linkedin.com/in/mariana-malagón-tochoy-784829195](https://www.linkedin.com/in/mariana-malag%C3%B3n-tochoy-784829195)
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=marianamalagon11&theme=radical&hide_border=true&ring=F472B6&fire=F9A8D4&currStreakLabel=F472B6&sideLabels=F472B6&dates=FBCFE8&stroke=0000&background=0D1117" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianamalagon11&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianamalagon11&theme=radical" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianamalagon11&theme=radical" />
+</p>
+
+---
+
+## Connect
+
+- GitHub: [@marianamalagon11](https://github.com/marianamalagon11)
+- LinkedIn: [mariana-malagón-tochoy-784829195](https://www.linkedin.com/in/mariana-malag%C3%B3n-tochoy-784829195)
 
 ---
 
