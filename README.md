@@ -1,107 +1,133 @@
-# Hola, soy Mariana Malagón
+<div align="center">
 
-## Enfoque
+#  Hi, I'm Mariana Malagón 
 
-- **Desarrollo de Software**: Aplicaciones con Java y Python
-- **Seguridad Informática**: Gestión de credenciales, protección de datos y cifrado
-- **Data Science & IA**: Machine Learning y análisis de datos
-- **Educación Tecnológica**: Herramientas interactivas para aprendizaje en seguridad
+### *Software Developer • Security Enthusiast • AI & Data Science Learner*
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+Security+%7C+AI;Building+projects+with+purpose+and+impact;Always+learning%2C+always+creating+%F0%9F%92%AB" alt="Typing animation" />
 
-## Tecnologías
+<br>
 
-- **Lenguajes**: Java, Python, PowerShell, Bash
-- **Especialidades**:
-  - Desarrollo Orientado a Objetos (OOP)
-  - Bases de Datos (Oracle Cloud, SGBD)
-  - Seguridad en CI/CD y gestión de secretos
-  - Machine Learning y Redes Neuronales
+![Profile Views](https://komarev.com/ghpvc/?username=marianamalagon11&style=for-the-badge&color=ec4899)
+![GitHub followers](https://img.shields.io/github/followers/marianamalagon11?style=for-the-badge&color=f472b6)
+![GitHub User's stars](https://img.shields.io/github/stars/marianamalagon11?style=for-the-badge&color=f9a8d4)
+
+</div>
 
 ---
 
-## Proyectos por Clase
+##  About Me
 
-### CLASES - Desarrollo Orientado a Objetos
-
-Proyectos fundamentales de programación orientada a objetos aplicando principios SOLID y patrones de diseño.
-
-- **[SilkRoad](https://github.com/marianamalagon11/SilkRoad)** - Proyecto inicial de desarrollo orientado a objetos
-- **[BadDopoCream](https://github.com/marianamalagon11/BadDopoCream)** - Proyecto final de desarrollo orientado a objetos
-
----
-
-### DOSW - Desarrollo de Software
-
-Laboratorios y proyectos de la materia de Desarrollo de Software enfocados en arquitectura, patrones y buenas prácticas.
-
-- **[DOSW-Lab1-2026-1-MarianaMalagon-DavidCorrea](https://github.com/marianamalagon11/DOSW-Lab1-2026-1-MarianaMalagon-DavidCorrea)** - Laboratorio 1 DOSW 2026-1
-- **[DOSW-Bootcamp-Laboratorio-02_2026](https://github.com/marianamalagon11/DOSW-Bootcamp-Laboratorio-02_2026)** - Laboratorio 2 DOSW 2026-1
-- **[DOSW_LAB03_Bootcamp_MJS](https://github.com/marianamalagon11/DOSW_LAB03_Bootcamp_MJS)** - Laboratorio 3 Bootcamp
-- **[DOSW_Lab4_MJS](https://github.com/marianamalagon11/DOSW_Lab4_MJS)** - Laboratorio 4 DOSW
-- **[DOSW-Library](https://github.com/marianamalagon11/DOSW-Library)** - Librería DOSW
-- **[BitacoraDOSW_MarianaMalagon](https://github.com/marianamalagon11/BitacoraDOSW_MarianaMalagon)** - Bitácora de aprendizaje
+-  I build software applications with **Java** and **Python**
+-  Im interested in **Information Security**: credential management, data protection, and encryption
+-  I work on **Data Science & AI** projects: machine learning and data analysis
+-  I enjoy creating **technology-based educational tools**, especially for cybersecurity learning
+-  I’m constantly improving through academic and personal projects
 
 ---
 
-### FDSI - Fundamentos de Seguridad de la Información
+## 🧰 Tech Stack
 
-Proyectos enfocados en seguridad informática, criptografía y protección de datos.
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **[Kryptos-Terra_FDSI](https://github.com/marianamalagon11/Kryptos-Terra_FDSI)** - Solución de seguridad en tres capas para proteger el ciclo de vida de Terraform. Prevención de fugas de credenciales en Git, escaneo automatizado en CI/CD y gestión centralizada de secretos.
-
-### Semillero de Arquitectura Tecnológica y Seguridad
-
-- **[RedBluePassword](https://github.com/marianamalagon11/RedBluePassword)** - Aplicación web educativa interactiva para enseñar ciberseguridad mediante simulaciones de contraseñas débiles, fortalecimiento de credenciales y MFA.
-
----
-
-### PTIA - Programación e Inteligencia Artificial
-
-Laboratorios y proyectos de machine learning, redes neuronales y análisis de datos.
-
-- **[PTIA_LAB1_DT](https://github.com/marianamalagon11/PTIA_LAB1_DT)** - Laboratorio 1: Decision Trees (Árboles de Decisión)
-- **[PTIA_LAB2_RN](https://github.com/marianamalagon11/PTIA_LAB2_RN)** - Laboratorio 2: Redes Neuronales
-- **[PTIA_LAB3_AdvSearch](https://github.com/marianamalagon11/PTIA_LAB3_AdvSearch)** - Laboratorio 3: Búsqueda avanzada
-- **[PTIA_LAB4_KB](https://github.com/marianamalagon11/PTIA_LAB4_KB)** - Laboratorio 4: Búsqueda adversaria
-- **[PTIA-MediFinder](https://github.com/marianamalagon11/PTIA-MediFinder)** - Proyecto de IA aplicada a medicina para búsqueda y análisis de datos
+### Specialties
+- Object-Oriented Programming (OOP)
+- Database Systems (Oracle Cloud, DBMS)
+- CI/CD security and secrets management
+- Machine Learning and Neural Networks
 
 ---
 
-### SGBD - Sistemas de Gestión de Bases de Datos
+## 📚 Projects by Class
 
-Aplicaciones y herramientas para administración y análisis de bases de datos.
+### CLASES - Object-Oriented Development
 
-- **[SGBD_Application_Python](https://github.com/marianamalagon11/SGBD_Application_Python)** - Aplicación en Python para gestión de sistemas de bases de datos
-- **[ADAPTATION_SGBD_application](https://github.com/marianamalagon11/ADAPTATION_SGBD_application)** - Adaptación de aplicación Java para Oracle Cloud
-- **[SCHEMASPY_DBOracleCloud](https://github.com/marianamalagon11/SCHEMASPY_DBOracleCloud)** - Herramienta SchemaSpy para análisis de bases de datos Oracle Cloud
+Core object-oriented programming projects applying SOLID principles and design patterns.
 
----
-
-## Organización
-
-- **[PATRICIA-Ingenierios-del-prompt](https://github.com/PATRICIA-Ingenierios-del-prompt)** - Organización donde colaboro en **U•link**, una plataforma universitaria enfocada en conexión, bienestar e inclusión.
-
-### U•link (resumen)
-
-- **Conexión y Comunidad**: Espacios (“Parches”) para crear grupos de estudio e intereses afines sin barreras entre facultades.
-- **Bienestar 24/7**: **Mono**, asistente de apoyo emocional privado disponible en todo momento; además incluye **matching** para conocer personas, **eventos en vivo con ubicación** y **álbum de monas**.
-- **Diseño Inclusivo**: Interfaz adaptada para personas con dislexia y daltonismo, garantizando participación sin excepciones.
-- **Excelencia en Arquitectura**: Sistema en la nube rápido, seguro y altamente escalable, reconocido por su presentación técnica y robustez.
-
-🔗 Repositorio en GitHub: https://github.com/PATRICIA-Ingenierios-del-prompt
+- **[SilkRoad](https://github.com/marianamalagon11/SilkRoad)** - Initial object-oriented development project
+- **[BadDopoCream](https://github.com/marianamalagon11/BadDopoCream)** - Final object-oriented development project
 
 ---
 
-## Conecta conmigo
+### DOSW - Software Development
+
+Labs and course projects focused on software architecture, design patterns, and best practices.
+
+- **[DOSW-Lab1-2026-1-MarianaMalagon-DavidCorrea](https://github.com/marianamalagon11/DOSW-Lab1-2026-1-MarianaMalagon-DavidCorrea)** - DOSW Lab 1 (2026-1)
+- **[DOSW-Bootcamp-Laboratorio-02_2026](https://github.com/marianamalagon11/DOSW-Bootcamp-Laboratorio-02_2026)** - DOSW Lab 2 (2026-1)
+- **[DOSW_LAB03_Bootcamp_MJS](https://github.com/marianamalagon11/DOSW_LAB03_Bootcamp_MJS)** - Bootcamp Lab 3
+- **[DOSW_Lab4_MJS](https://github.com/marianamalagon11/DOSW_Lab4_MJS)** - DOSW Lab 4
+- **[DOSW-Library](https://github.com/marianamalagon11/DOSW-Library)** - DOSW Library project
+- **[BitacoraDOSW_MarianaMalagon](https://github.com/marianamalagon11/BitacoraDOSW_MarianaMalagon)** - Learning log / development journal
+
+---
+
+### FDSI - Fundamentals of Information Security
+
+Projects focused on information security, cryptography, and data protection.
+
+- **[Kryptos-Terra_FDSI](https://github.com/marianamalagon11/Kryptos-Terra_FDSI)** - Three-layer security solution for Terraform lifecycle protection. Includes credential leak prevention in Git, automated CI/CD scanning, and centralized secrets management.
+
+### Architecture & Security Research Group
+
+- **[RedBluePassword](https://github.com/marianamalagon11/RedBluePassword)** - Interactive educational web app to teach cybersecurity through weak-password attack simulations, stronger credential practices, and MFA adoption.
+
+---
+
+### PTIA - Programming and Artificial Intelligence
+
+Labs and projects in machine learning, neural networks, and data analysis.
+
+- **[PTIA_LAB1_DT](https://github.com/marianamalagon11/PTIA_LAB1_DT)** - Lab 1: Decision Trees
+- **[PTIA_LAB2_RN](https://github.com/marianamalagon11/PTIA_LAB2_RN)** - Lab 2: Neural Networks
+- **[PTIA_LAB3_AdvSearch](https://github.com/marianamalagon11/PTIA_LAB3_AdvSearch)** - Lab 3: Advanced Search
+- **[PTIA_LAB4_KB](https://github.com/marianamalagon11/PTIA_LAB4_KB)** - Lab 4: Adversarial Search
+- **[PTIA-MediFinder](https://github.com/marianamalagon11/PTIA-MediFinder)** - AI project applied to medicine for information search and analysis
+
+---
+
+### SGBD - Database Management Systems
+
+Applications and tools for database administration and analysis.
+
+- **[SGBD_Application_Python](https://github.com/marianamalagon11/SGBD_Application_Python)** - Python application for database systems management
+- **[ADAPTATION_SGBD_application](https://github.com/marianamalagon11/ADAPTATION_SGBD_application)** - Java application adaptation for Oracle Cloud
+- **[SCHEMASPY_DBOracleCloud](https://github.com/marianamalagon11/SCHEMASPY_DBOracleCloud)** - SchemaSpy-based tool for Oracle Cloud database analysis
+
+---
+
+## Organization
+
+- **[PATRICIA-Ingenierios-del-prompt](https://github.com/PATRICIA-Ingenierios-del-prompt)** - Organization where I collaborate on **U•link**, a university platform focused on connection, wellbeing, and inclusion.
+
+### U•link (Summary)
+
+- **Connection & Community**: “Parches” spaces to build study groups and communities of shared interests across faculties.
+- **24/7 Wellbeing**: **Mono**, a private emotional support assistant available anytime; plus **people matching**, **live geolocated events**, and a **monas album**.
+- **Inclusive Design**: Interface adapted for people with dyslexia and color blindness, ensuring equal participation.
+- **Architecture Excellence**: Fast, secure, and highly scalable cloud system, recognized for technical presentation and robust architecture.
+
+🔗 Repository: https://github.com/PATRICIA-Ingenierios-del-prompt
+
+---
+
+##  Connect with Me
 
 - **GitHub**: [@marianamalagon11](https://github.com/marianamalagon11)
-- **Intereses**: Seguridad Informática | OOP | Data Science | Educación Tecnológica
+- **Interests**: Information Security | OOP | Data Science | Tech Education
 
 ---
 
-Estoy constantemente trabajando en proyectos académicos y personales que combinan desarrollo de software con seguridad e IA. Cada repositorio refleja mi aprendizaje y crecimiento como desarrolladora.
+<div align="center">
+
+###  Thanks for visiting my profile!
+
+</div>
 
 ---
 
-*Última actualización: 27 de julio de 2026*
+*Last updated: July 27, 2026*
