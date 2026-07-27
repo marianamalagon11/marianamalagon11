@@ -1,40 +1,45 @@
 <div align="center">
 
-#  Hi, I'm Mariana Malagón 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mariana%20Malag%C3%B3n&fontAlign=50&fontAlignY=40&color=gradient&customColorList=24,20,14,11,30&fontColor=ffffff&desc=Software%20Development%20%E2%80%A2%20Security%20%E2%80%A2%20AI%20%26%20Data&descAlign=50&descAlignY=58&animation=fadeIn" />
 
-### *Software Developer • Security Enthusiast • AI & Data Science Learner*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+Security+%7C+AI;Building+projects+with+purpose+and+impact;Always+learning%2C+always+creating+%F0%9F%92%AB" alt="Typing animation" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=marianamalagon11&style=for-the-badge&color=ec4899)
-![GitHub followers](https://img.shields.io/github/followers/marianamalagon11?style=for-the-badge&color=f472b6)
-![GitHub User's stars](https://img.shields.io/github/stars/marianamalagon11?style=for-the-badge&color=f9a8d4)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=700&lines=Hi%2C+I%E2%80%99m+Mariana+Malag%C3%B3n;Java+%7C+Python+%7C+Security+%7C+AI;Building+impactful+projects+with+technology)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
--  I build software applications with **Java** and **Python**
--  Im interested in **Information Security**: credential management, data protection, and encryption
--  I work on **Data Science & AI** projects: machine learning and data analysis
--  I enjoy creating **technology-based educational tools**, especially for cybersecurity learning
--  I’m constantly improving through academic and personal projects
+Software developer focused on Java and Python, with strong interest in information security, AI, and data science.  
+I continuously build academic and personal projects that combine software engineering, secure development practices, and intelligent systems.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-6366F1?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Specialties
+### Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1F2937?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-2563EB?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-16A34A?style=for-the-badge&logo=android&logoColor=white)
+![Solaris](https://img.shields.io/badge/Solaris-DC2626?style=for-the-badge&logo=oracle&logoColor=white)
+![Slackware](https://img.shields.io/badge/Slackware-111827?style=for-the-badge&logo=slackware&logoColor=white)
+
+### Virtualization & Networking
+![VMware](https://img.shields.io/badge/VMware-4B5563?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-1D4ED8?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Core Competencies
 - Object-Oriented Programming (OOP)
 - Database Systems (Oracle Cloud, DBMS)
 - CI/CD security and secrets management
@@ -42,7 +47,7 @@
 
 ---
 
-## 📚 Projects by Class
+## Projects by Class
 
 ### CLASES - Object-Oriented Development
 
@@ -70,11 +75,11 @@ Labs and course projects focused on software architecture, design patterns, and 
 
 Projects focused on information security, cryptography, and data protection.
 
-- **[Kryptos-Terra_FDSI](https://github.com/marianamalagon11/Kryptos-Terra_FDSI)** - Three-layer security solution for Terraform lifecycle protection. Includes credential leak prevention in Git, automated CI/CD scanning, and centralized secrets management.
+- **[Kryptos-Terra_FDSI](https://github.com/marianamalagon11/Kryptos-Terra_FDSI)** - Three-layer security solution for Terraform lifecycle protection, including credential leak prevention, automated CI/CD scanning, and centralized secrets management.
 
 ### Architecture & Security Research Group
 
-- **[RedBluePassword](https://github.com/marianamalagon11/RedBluePassword)** - Interactive educational web app to teach cybersecurity through weak-password attack simulations, stronger credential practices, and MFA adoption.
+- **[RedBluePassword](https://github.com/marianamalagon11/RedBluePassword)** - Interactive educational web app for cybersecurity learning through password attack simulations, stronger credential practices, and MFA.
 
 ---
 
@@ -96,37 +101,29 @@ Applications and tools for database administration and analysis.
 
 - **[SGBD_Application_Python](https://github.com/marianamalagon11/SGBD_Application_Python)** - Python application for database systems management
 - **[ADAPTATION_SGBD_application](https://github.com/marianamalagon11/ADAPTATION_SGBD_application)** - Java application adaptation for Oracle Cloud
-- **[SCHEMASPY_DBOracleCloud](https://github.com/marianamalagon11/SCHEMASPY_DBOracleCloud)** - SchemaSpy-based tool for Oracle Cloud database analysis
+- **[SCHEMASPY_DBOracleCloud](https://github.com/marianamalagon11/SCHEMASPY_DBOracleCloud)** - SchemaSpy tool for Oracle Cloud database analysis
 
 ---
 
 ## Organization
 
-- **[PATRICIA-Ingenierios-del-prompt](https://github.com/PATRICIA-Ingenierios-del-prompt)** - Organization where I collaborate on **U•link**, a university platform focused on connection, wellbeing, and inclusion.
+- **[PATRICIA-Ingenierios-del-prompt](https://github.com/PATRICIA-Ingenierios-del-prompt)** — I collaborate on **U•link**, a university platform centered on connection, wellbeing, and inclusion.
 
 ### U•link (Summary)
 
-- **Connection & Community**: “Parches” spaces to build study groups and communities of shared interests across faculties.
-- **24/7 Wellbeing**: **Mono**, a private emotional support assistant available anytime; plus **people matching**, **live geolocated events**, and a **monas album**.
-- **Inclusive Design**: Interface adapted for people with dyslexia and color blindness, ensuring equal participation.
-- **Architecture Excellence**: Fast, secure, and highly scalable cloud system, recognized for technical presentation and robust architecture.
+- **Connection & Community:** “Parches” spaces to form study groups and interest-based communities across faculties.
+- **24/7 Wellbeing:** **Mono**, a private emotional support assistant, plus people matching, live location-based events, and a monas album.
+- **Inclusive Design:** Accessibility-oriented interface for users with dyslexia and color blindness.
+- **Architecture Excellence:** Fast, secure, and highly scalable cloud architecture recognized for technical quality.
 
-🔗 Repository: https://github.com/PATRICIA-Ingenierios-del-prompt
-
----
-
-##  Connect with Me
-
-- **GitHub**: [@marianamalagon11](https://github.com/marianamalagon11)
-- **Interests**: Information Security | OOP | Data Science | Tech Education
+Repository: https://github.com/PATRICIA-Ingenierios-del-prompt
 
 ---
 
-<div align="center">
+## Connect with Me
 
-###  Thanks for visiting my profile!
-
-</div>
+- **GitHub:** [@marianamalagon11](https://github.com/marianamalagon11)
+- **LinkedIn:** [www.linkedin.com/in/mariana-malagón-tochoy-784829195](https://www.linkedin.com/in/mariana-malag%C3%B3n-tochoy-784829195)
 
 ---
 
