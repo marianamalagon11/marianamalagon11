@@ -114,6 +114,29 @@ Applications and tools for database administration and analysis.
 
 ---
 
+### TDSE - Transformaciones Digitales y Soluciones Empresariales
+
+Enterprise architecture, cloud deployment, and applied AI/ML labs, from a sequential HTTP server to neural networks and RAG systems.
+
+- **[TDSE_HttpServer](https://github.com/marianamalagon11/TDSE_HttpServer)** - Sequential Java HTTP server built from raw sockets (no framework), serving static resources and hardcoded services, deployed to AWS EC2 to study the limits of a single-threaded server.
+- **[TDSE_LLMChain_RAGApplication](https://github.com/marianamalagon11/TDSE_LLMChain_RAGApplication)** - RAG assistant built with Gemini, LangChain, and Chroma over public articles about the 2026 OpenAI–Hugging Face security incident; compares a single-shot RAG chain against a multi-query RAG agent.
+- **[TDSE_NeuralNetworks](https://github.com/marianamalagon11/TDSE_NeuralNetworks)** - Compares a baseline dense network against a custom CNN for facial emotion classification on FER2013, with training and deployment on Amazon SageMaker.
+- **[TDSE_LOGISTIC_REGRESSION](https://github.com/marianamalagon11/TDSE_LOGISTIC_REGRESSION)** - Logistic regression implemented from scratch (no scikit-learn) to predict heart disease risk, including L2 regularization and validation on SageMaker.
+- **[TDSE_REGRESSION](https://github.com/marianamalagon11/TDSE_REGRESSION)** - Linear and polynomial regression built from first principles with vectorized NumPy, applied to stellar mass vs. luminosity data.
+
+---
+
+### ARSW - Arquitecturas de Software
+
+Labs on concurrency, thread synchronization, and distributed/REST architectures.
+
+- **LAB 1: [ARSW_PARALLELISM_THREADS](https://github.com/marianamalagon11/ARSW_PARALLELISM_THREADS)** - Introduction to Java threads and a parallelized BlackListSearch across N threads, with performance analysis based on Amdahl's law.
+- **LAB 2: [ARSW_Lab_SnakeRace](https://github.com/marianamalagon11/ARSW_Lab_SnakeRace)** - Concurrent Snake game on Java 21 (virtual threads), fixing race conditions, busy-waiting, and unsafe collections, with a pause/resume UI.
+- **LAB 3: [Lab_P1_BluePrints_Java21_API](https://github.com/Valentina-33/Lab_P1_BluePrints_Java21_API)** (with Valentina-33) - REST API for blueprints and points using Java 21 and Spring Boot, with PostgreSQL persistence, API versioning, uniform responses, and OpenAPI/Swagger docs.
+- **LAB 4: [ConcurrentProgramming_Syncrhronization_DeadLocks_ThsSuspension](https://github.com/Valentina-33/ConcurrentProgramming_Syncrhronization_DeadLocks_ThsSuspension)** (with Valentina-33) - Producer/consumer synchronization with wait/notify, and deadlock detection and resolution in an "immortals" concurrency simulator.
+
+---
+
 ## Organization
 
 - **[PATRICIA-Ingenierios-del-prompt](https://github.com/PATRICIA-Ingenierios-del-prompt)** — I collaborate on **U•link**, a university platform centered on connection, wellbeing, and inclusion.
@@ -125,7 +148,7 @@ Applications and tools for database administration and analysis.
 - **Inclusive Design:** Accessibility-oriented interface for users with dyslexia and color blindness.
 - **Architecture Excellence:** Fast, secure, and highly scalable cloud architecture recognized for technical quality.
 
-Repository: https://github.com/PATRICIA-Ingenierios-del-prompt
+Repository: <https://github.com/PATRICIA-Ingenierios-del-prompt>
 
 ---
 
@@ -153,4 +176,4 @@ Repository: https://github.com/PATRICIA-Ingenierios-del-prompt
 
 ---
 
-*Last updated: July 27, 2026*
+*Last updated: September 10, 2026*
